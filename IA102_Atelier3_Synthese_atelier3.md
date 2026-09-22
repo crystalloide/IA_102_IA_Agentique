@@ -21,7 +21,7 @@
 | S3 — Commande (imprévu) | Plan-and-Execute | ✅ optimal | 9 | 8825 | 58.85 | 4 | 1 | 224.0 | 224.0 |
 | S3 — Commande (imprévu) | ReWOO | ❌ incomplet (80/120) | 5 | 4509 | 34.22 | 4 | 0 | 128.0 | 224.0 |
 
-![Comparaison](comparaison_atelier3.png)
+![Comparaison](IA102_Atelier3_PlanExecute_vs_ReWOO_comparaison.png)
 
 ## 3. Analyse chiffrée
 - **S1 — Devis simple** : Plan-and-Execute = 5 appels LLM / 4056 tokens (succès 100 %) ; ReWOO = 9 appels / 4924 tokens (succès 100 %). Plan-and-Execute consomme **0.6×** plus d'appels et **0.8×** plus de tokens.
