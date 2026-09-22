@@ -1,0 +1,9 @@
+[
+  {
+    "id": "WMS-4471",
+    "type": "blocage_expedition",
+    "entrepot": "Lyon",
+    "horodatage": "2026-09-22T09:12:00",
+    "message": "quai d'expédition bloqué (panne du convoyeur), aucune expédition possible avant le 29/09/2026"
+  }
+]
